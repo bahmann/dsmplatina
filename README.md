@@ -1,6 +1,6 @@
 DualSpeakerMod XiaomiMI8Lite PLATINA
 ------------------------------------------------------------
-ncandroid84 @ xda-developer
+droid84
 -
 ------------------------------------------------------------
 Initial Release: v1.1 01/06/2019
