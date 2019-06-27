@@ -2070,7 +2070,7 @@
         <ctl name="SpkrLeft VISENSE Switch" value="1" />
         <ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
         <ctl name="SpkrLeft WSA PA Mute" value="0" />
-        <ctl name="RX4 Digital Volume" value="90" />
+        <ctl name="RX4 Digital Volume" value="93" />
         <ctl name="RX5 Digital Volume" value="90" />
     </path>
 
