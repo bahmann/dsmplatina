@@ -2062,12 +2062,20 @@
     <path name="earpiece">
         <ctl name="EAR SPKR PA Gain" value="G_3_DB" />
         <path name="speaker-mono" />
+        <ctl name="INT4_MI2S_RX Channels" value="Two" />
+        <ctl name="RX4 MIX1 INP1" value="RX4" />
+        <ctl name="COMP1 Switch" value="1" />
+        <ctl name="SpkrLeft COMP Switch" value="1" />
+        <ctl name="SpkrLeft BOOST Switch" value="1" />
+        <ctl name="SpkrLeft VISENSE Switch" value="1" />
+        <ctl name="SpkrLeft SWR DAC_Port Switch" value="1" />
+        <ctl name="SpkrLeft WSA PA Mute" value="0" />
+        <ctl name="RX4 Digital Volume" value="90" />
+        <ctl name="RX5 Digital Volume" value="90" />
     </path>
 
     <path name="speaker">
-   	 <path name="earpiece" /> 
-        <ctl name="RX4 Digital Volume" value="90" />
-        <ctl name="RX5 Digital Volume" value="90" />
+        <path name="earpiece" /> 
     <!-- Mod droid84 end -->
         <ctl name="INT4_MI2S_RX Channels" value="Two" />
         <ctl name="RX4 MIX1 INP1" value="RX4" />
