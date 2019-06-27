@@ -5,7 +5,12 @@ droid84
 ------------------------------------------------------------
 Initial Release: v1.1 01/06/2019
 
------------------------------------------------------------
+------------------------------------------------------------
+Update: v1.2beta 27/06/2019
+Add some mixers,this version will be beta since some users
+reported that the mod does not work correctly.
+
+------------------------------------------------------------
 
 Descriptión:
 -
