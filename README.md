@@ -11,6 +11,10 @@ Add some mixers,this version will be beta since some users
 reported that the mod does not work correctly.
 
 ------------------------------------------------------------
+Update: v1.3 27/96/2019
+Increased earpiece volume
+
+------------------------------------------------------------
 
 Descriptión:
 -
